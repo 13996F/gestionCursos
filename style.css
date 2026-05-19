@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.contenedor{
+    width: 500px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+.alerta-bienvenida{
+    color: seagreen;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(14, 81, 129);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+input, select{
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button{
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
