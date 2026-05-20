@@ -11,6 +11,7 @@ $fecha  = date("d/m/Y");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registro del Curso</title>
+    <link rel="icon" type="image/png" href="image/iconogratis.png">
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
