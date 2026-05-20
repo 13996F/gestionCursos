@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bienvenido</title>
+    <link rel="icon" type="image/png" href="image/iconogratis.png">
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
